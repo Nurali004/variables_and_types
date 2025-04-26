@@ -1,4 +1,10 @@
 # Assign 5 (int value) to 'a' variable;
+a=5
+b=4
+c=2
+d=8
+k=2*((a*b)-(c*d))
+print(k)
 
 # Assign 4 (int value) to 'b' variable;
 
