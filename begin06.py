@@ -1,4 +1,9 @@
 # Assign 24 (int value) to 'a' variable;
+a=24
+b=3
+c=5
+k=(a-b+c)
+print(k)
 
 # Assign 3 (int value) to 'b' variable;
 
